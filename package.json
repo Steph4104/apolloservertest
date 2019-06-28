@@ -7,7 +7,9 @@
     "prisma": "prisma"
   },
   "dependencies": {
+    "apollo-server-micro": "^2.6.7",
     "bcryptjs": "^2.4.3",
+    "graphql": "^14.4.0",
     "graphql-yoga": "^1.7.0",
     "jsonwebtoken": "^8.2.0",
     "prisma-client-lib": "^1.31.0"
